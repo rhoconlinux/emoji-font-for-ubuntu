@@ -1,4 +1,12 @@
-emoji-font-for-ubuntu
+Emoji fonts for Ubuntu
 =====================
 
-This a mirror redistribution of a open source font functional with the emoji typefaces. 
+This a redistribution mirror of some open source fonts that enable the emoji typefaces functionality. Some minor modifications were included in the packaging so actually this is a fork of the original project. 
+
+Cheers!
+
+Original Project: http://users.teilar.gr/~g1951d/
+
+License (Original): Fonts in this site are offered free for any use; they may be installed, embedded, opened, edited, modified, regenerated, posted, packaged and redistributed. George Douros
+Licence (this project and further modifications): Creative Commons CC by 3.0.
+
