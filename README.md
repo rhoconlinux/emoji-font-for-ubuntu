@@ -3,6 +3,9 @@ Emoji fonts for Ubuntu
 
 This a redistribution mirror of some open source fonts that enable the emoji typefaces functionality. Some minor modifications were included in the packaging so actually this is a fork of the original project. 
 
+Download link Emojibuntu fonts:
+https://mega.co.nz/#!g5R2TbBZ!vseIB63bLifIj1IlgvtkYDdaX0zOFUKtWu8dZJnpRgA
+
 Cheers!
 
 Original Project: http://users.teilar.gr/~g1951d/
